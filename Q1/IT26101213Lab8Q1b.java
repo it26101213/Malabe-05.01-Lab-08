@@ -19,7 +19,7 @@ import java.util.Scanner;
 	 System.out.println("my Array Contents");
 	 
 	 
-	 for(i=5;i>=1;i--){
+	 for(i=1;i<=5;i++){
 	 System.out.print( number[i] + " ");
 	 }
 	 
